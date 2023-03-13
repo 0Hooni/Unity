@@ -1,0 +1,4 @@
+repository "LateralScrollHorrorGame@limjaeha@cloud"
+  path "/"
+    br "/main"
+    co "/main"

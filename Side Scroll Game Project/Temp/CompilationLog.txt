@@ -1,0 +1,120 @@
+# Starting compiling UnityEngine.TestRunner.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-1d6ba767f11164073943be7906a7e45e
+# Starting compiling UnityEngine.UI.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a0ae6c7699b1a4ff1b64bb81fc0ff3b2
+# Starting compiling UnityEditor.TestRunner.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-75ecbb7eaaadf4fd59a3386cf8b86a18
+# Starting compiling UnityEditor.UI.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-be0521a1c949d4418ac6742f7520e091
+# Starting compiling Unity.InternalAPIEngineBridge.001.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-93ae66856ef0548d4b0d98fa131e0564
+# Starting compiling Unity.VSCode.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-cf5c66fcc861d4e648f82235727f51ee
+# Starting compiling Unity.2D.PixelPerfect.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-1bcbc3a5702f347c69a0457539e66c0f
+# Starting compiling Unity.2D.Tilemap.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-2acd534ffe00f4a30bdd61e0625d81ef
+# Starting compiling PsdPlugin.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-4d83ee4b1d7cd409eb7e6c0b7b998f3c
+# Starting compiling Unity.VisualStudio.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-955e58eacd5b14832bf86b9fef98cdeb
+# Starting compiling Unity.Timeline.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-9a1303090fa6d4ced8d957f5202b4140
+# Starting compiling Unity.TextMeshPro.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-fdb4a6211c4ac4ae188d6c7aad6b441c
+# Starting compiling Unity.2D.Sprite.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-bf0d18e01bbb94f24bb69f6ea630500b
+# Starting compiling Unity.2D.Path.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-3228e971a4d6149f9a424165bdbfb072
+# Starting compiling Unity.PlasticSCM.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-60341644deea7411a9ccbe051f06a5e3
+# Starting compiling Unity.Rider.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-3c3919b71417f4f1c9e27418f3ff24e6
+# Starting compiling Unity.Mathematics.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-f37a43e7fa71f4378815f72cafde5d9b
+# Starting compiling Unity.2D.IK.Runtime.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-2bf1c0537028b4f12ac688fa67fcdadf
+# Starting compiling Unity.Services.Core.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-950d9ff0817a14b06ae17e32f62e15d5
+# Starting compiling Unity.Burst.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-367defb1d5d4e426799b49f26d569094
+# Starting compiling Unity.2D.PixelPerfect.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-8254a5ec2bddb4dcf83f8c74e477790e
+# Starting compiling Unity.InternalAPIEditorBridge.001.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-c1a63a21eb3ec4639a6dc5453941c207
+# Starting compiling Unity.Timeline.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-3160304fb6e784d7d8e787fa5e13ab67
+# Starting compiling Unity.CollabProxy.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-790a3128c185941d9808212d092a8eaa
+# Starting compiling Unity.TextMeshPro.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-d682abbf2f9ee4bd998fe7664448bfe5
+# Starting compiling Unity.Burst.CodeGen.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-c64cf13e45d2e4be2b368c4760de0f95
+# Starting compiling Unity.Burst.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7db87cb388ea64bf39289f2b3ab0883c
+# Starting IL post processing on UnityEngine.TestRunner.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/0Hooni/Desktop/CODE/Unity/Side Scroll Game Project/Temp/UnityTempFile-1eb0df07f42694183b8762c24b32b759"
+# Starting IL post processing on UnityEngine.UI.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/0Hooni/Desktop/CODE/Unity/Side Scroll Game Project/Temp/UnityTempFile-a860da5ed6196488695db97b7e9c4923"
+# Starting IL post processing on UnityEditor.TestRunner.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/0Hooni/Desktop/CODE/Unity/Side Scroll Game Project/Temp/UnityTempFile-279c91dd316694e8bb9c25a489db3121"
+# Starting IL post processing on UnityEditor.UI.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/0Hooni/Desktop/CODE/Unity/Side Scroll Game Project/Temp/UnityTempFile-60d299619a75c4bd08c2b7141699cdd3"
+# Starting IL post processing on Unity.InternalAPIEngineBridge.001.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/0Hooni/Desktop/CODE/Unity/Side Scroll Game Project/Temp/UnityTempFile-e5bb9eebcbae044ff90d94c5441b3b27"
+# Starting IL post processing on Unity.2D.PixelPerfect.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/0Hooni/Desktop/CODE/Unity/Side Scroll Game Project/Temp/UnityTempFile-6768a7446c6c247f5aa546dd04fd65f1"
+# Starting IL post processing on Unity.2D.IK.Runtime.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/0Hooni/Desktop/CODE/Unity/Side Scroll Game Project/Temp/UnityTempFile-1aa4b20dcdab8414d807f76198df14be"
+# Starting IL post processing on Unity.VSCode.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/0Hooni/Desktop/CODE/Unity/Side Scroll Game Project/Temp/UnityTempFile-dce08c81e03014feb9b30de6191b268e"
+# Starting IL post processing on PsdPlugin.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/0Hooni/Desktop/CODE/Unity/Side Scroll Game Project/Temp/UnityTempFile-11a4e3eabdf9b492b93d2de646583fb1"
+# Starting IL post processing on Unity.2D.Tilemap.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/0Hooni/Desktop/CODE/Unity/Side Scroll Game Project/Temp/UnityTempFile-f0fd3335b33a84fb59b003587e4a5c60"
+# Starting IL post processing on Unity.VisualStudio.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/0Hooni/Desktop/CODE/Unity/Side Scroll Game Project/Temp/UnityTempFile-3a58b73321e1f405e807538e6a6d1ea8"
+# Starting IL post processing on Unity.Rider.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/0Hooni/Desktop/CODE/Unity/Side Scroll Game Project/Temp/UnityTempFile-d86d559596d3b4cc19ecc54d5461f1e7"
+# Starting IL post processing on Unity.2D.PixelPerfect.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/0Hooni/Desktop/CODE/Unity/Side Scroll Game Project/Temp/UnityTempFile-54caf42536d9147669e34e04d9605079"
+# Starting IL post processing on Unity.Services.Core.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/0Hooni/Desktop/CODE/Unity/Side Scroll Game Project/Temp/UnityTempFile-1a2929bcf1c174d7b99096afe717c55e"
+# Starting IL post processing on Unity.2D.Path.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/0Hooni/Desktop/CODE/Unity/Side Scroll Game Project/Temp/UnityTempFile-53e003cbecee946aea4fa652920adaee"
+# Starting IL post processing on Unity.Timeline.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/0Hooni/Desktop/CODE/Unity/Side Scroll Game Project/Temp/UnityTempFile-8e720ad884107438dbcc97f7f0afa20e"
+# Starting IL post processing on Unity.2D.Sprite.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/0Hooni/Desktop/CODE/Unity/Side Scroll Game Project/Temp/UnityTempFile-accd2d2b5aae14378968e8f59ade62cd"
+# Starting compiling Unity.Mathematics.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-936382ec16b09413ba10c2bebbe6d91f
+# Starting compiling Unity.2D.Common.Runtime.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-382ba7836b5564363b175c25fc2f6330
+# Starting IL post processing on Unity.PlasticSCM.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/0Hooni/Desktop/CODE/Unity/Side Scroll Game Project/Temp/UnityTempFile-7953a7cd3dee5461f8e4942eb4928764"
+# Starting IL post processing on Unity.TextMeshPro.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/0Hooni/Desktop/CODE/Unity/Side Scroll Game Project/Temp/UnityTempFile-80bb67742840845449f9c941f61e1603"
+# Starting IL post processing on Unity.Burst.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/0Hooni/Desktop/CODE/Unity/Side Scroll Game Project/Temp/UnityTempFile-220f40d8b68284be1bd9365dc0a7f7e9"
+# Starting IL post processing on Unity.CollabProxy.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/0Hooni/Desktop/CODE/Unity/Side Scroll Game Project/Temp/UnityTempFile-594ce66353d654fee80d16e91d4edbc0"
+# Starting IL post processing on Unity.TextMeshPro.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/0Hooni/Desktop/CODE/Unity/Side Scroll Game Project/Temp/UnityTempFile-ce210c09909de411795df2d08ed70d7a"
+# Starting IL post processing on Unity.Timeline.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/0Hooni/Desktop/CODE/Unity/Side Scroll Game Project/Temp/UnityTempFile-b64666bafa8a7476e984c0ecf2389481"
+# Starting IL post processing on Unity.Burst.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/0Hooni/Desktop/CODE/Unity/Side Scroll Game Project/Temp/UnityTempFile-382aecec1eb864612958949f40fe1feb"
+# Starting IL post processing on Unity.Mathematics.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/0Hooni/Desktop/CODE/Unity/Side Scroll Game Project/Temp/UnityTempFile-a0f36e8994b134937a8c928c3c44e50e"
+# Starting IL post processing on Unity.Mathematics.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/0Hooni/Desktop/CODE/Unity/Side Scroll Game Project/Temp/UnityTempFile-d82e1b6ee961644c5a7918ca4bf1e415"
+# Starting IL post processing on Unity.2D.Common.Runtime.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/0Hooni/Desktop/CODE/Unity/Side Scroll Game Project/Temp/UnityTempFile-e978a9b460a7e4233948b69cd3e537b6"
+# Starting compiling Unity.2D.Animation.Runtime.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-6b0a488bba04a4c03a6cba20d3aa0d54
+# Starting compiling Unity.2D.Common.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-18b89a64a22e241f4997cc3daa44c98b
+# Starting compiling Unity.2D.SpriteShape.Runtime.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-f9309d31547ca45358b1c534f5866113
+# Starting IL post processing on Unity.2D.Common.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.29f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/0Hooni/Desktop/CODE/Unity/Side Scroll Game Project/Temp/UnityTempFile-286707dc0e51e4c028b1a709b1a8d494"
